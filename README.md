@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 2. Add your ThingSpeak API configuration:
     
-    thingspeak.api.url=https://api.thingspeak.com/channels/{channel_id}/fields/{field_id}.json
+    thingspeak.api.url=https://api.thingspeak.com/channels/{channel_id}/fields/{field_id}.json  
     thingspeak.api.key=YOUR_READ_API_KEY
 
 - For any queries contact [animity0407@gmail.com]
